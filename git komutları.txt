@@ -29,3 +29,18 @@ git checkout ab52c52ac63
 
 ############ stash #######################################
 Dikkatttt: stash için öncelikle ==> git add .  ===> yapmalıyız
+git stash 
+git stash list
+git stash pop  ==> 
+git stash apply stash@{1} ==> istediğimiz stash'i çağırmak istersek
+git stash drop stash@{1} ==> stashleri silmek
+
+############ branch #######################################
+projemizde birden fazla kollar açmak istioyorsak kullanıyoruz.
+git branch frontend
+git branch
+git branch --all
+
+############ diff #######################################
+diff: iki branch arasındaki farklılığı bize gösterir.
+git diff master backend1
