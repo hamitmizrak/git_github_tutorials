@@ -15,3 +15,4 @@ git config --global -l
 git clone https://github.com/hamitmizrak/git_github_tutorials.git
 
 git log ==> commtilerimin bilgisini almak için kullanıyorum
+git commit -a -m "hem ekleme hem güncelleme"
