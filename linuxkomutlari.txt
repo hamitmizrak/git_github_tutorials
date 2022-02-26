@@ -1,0 +1,6 @@
+cat deneme.txt 
+cat >> deneme.txt 
+
+mkdir dizin
+clear
+history
