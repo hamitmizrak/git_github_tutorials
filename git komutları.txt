@@ -16,3 +16,8 @@ git log ==> commtilerimin bilgisini almak için kullanıyorum
 ## local bilgisayarıma githubtan verileri indirmek için kullanıyoruz.
 git clone https://github.com/hamitmizrak/git_github_tutorials.git
 git commit -a -m "hem ekleme hem güncelleme"
+
+
+############ gitignore #######################################
+Dikkat: .gitignore mutlaka commitlemeliyim ondan sonra takip edilmesini istemediğim dosyaları yazıyorum
+.gitignore ==> git tarafından takip edilmesini istemdiğimiz dosya ve/veya dizinler github göndermez ve takibini yapmaz

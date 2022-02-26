@@ -11,8 +11,12 @@ git config --global user.email "hamitmizrak@gmail.com"
 git config --global -l
 
 ############ Komutlar #######################################
+git status
+git log ==> commtilerimin bilgisini almak için kullanıyorum
 ## local bilgisayarıma githubtan verileri indirmek için kullanıyoruz.
 git clone https://github.com/hamitmizrak/git_github_tutorials.git
-
-git log ==> commtilerimin bilgisini almak için kullanıyorum
 git commit -a -m "hem ekleme hem güncelleme"
+
+
+############ gitignore #######################################
+.gitignore ==> git tarafından takip edilmesini istemdiğimiz dosya ve/veya dizinler github göndermez ve takibini yapmaz
