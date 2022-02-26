@@ -44,3 +44,7 @@ git branch --all
 ############ diff #######################################
 diff: iki branch arasındaki farklılığı bize gösterir.
 git diff master backend1
+
+
+############ pull #######################################
+git pull ==> GitHubataki dosyaları almak için kullanıyoruz.
