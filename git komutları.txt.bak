@@ -11,3 +11,5 @@ git config --global user.email "hamitmizrak@gmail.com"
 git config --global -l
 
 ############ Komutlar #######################################
+## local bilgisayarıma githubtan verileri indirmek için kullanıyoruz.
+git clone https://github.com/hamitmizrak/git_github_tutorials.git
