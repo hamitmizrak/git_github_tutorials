@@ -21,3 +21,8 @@ git commit -a -m "hem ekleme hem güncelleme"
 ############ gitignore #######################################
 Dikkat: .gitignore mutlaka commitlemeliyim ondan sonra takip edilmesini istemediğim dosyaları yazıyorum
 .gitignore ==> git tarafından takip edilmesini istemdiğimiz dosya ve/veya dizinler github göndermez ve takibini yapmaz
+
+
+############ Checkout ########################################
+checkout: branchler veya commitler arasında gidip/gelmeyi sağlar
+git checkout ab52c52ac63
