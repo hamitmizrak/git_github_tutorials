@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "first commit"
+git remote url
+git push -u origin master
+
+git config --global user.name "hamitmizrak"
+git config --global user.email "hamitmizrak@gmail.com"
+git config --global -l
